@@ -10,8 +10,7 @@ experience using a variety of AWS services:
  - Secrects Manager - To prevent hardcoding any pertinent information
 
 🚀 I began by first logging into the AWS console and creating a new DynamoDB Table, giving it a name and partitiion key but keeping all other settings set to default
-<img width="1494" height="587" alt="DynamoDB_console " src="https://github.com/user-attachments/assets/77578340-1b1c-40e2-975f-c956b52c2e4b" />
-
+![DynamoDB creation page](Images/DynamoDB_console.png)
 
 
 
