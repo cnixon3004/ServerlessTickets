@@ -12,5 +12,8 @@ experience using a variety of AWS services:
 🚀 I began by first logging into the AWS console and creating a new DynamoDB Table, giving it a name and partitiion key but keeping all other settings set to default
 ![DynamoDB creation page](Images/DynamoDB_console.png)
 
+Once the table was created I then added several fields to the table DynamoDB >> Tables >> Explore Table Items >> Actions >> Edit Item
+![Added Fields](Images/Added_Attributes.png)
+
 
 
